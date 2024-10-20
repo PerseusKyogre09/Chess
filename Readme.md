@@ -37,8 +37,8 @@ python main.py
 5. The game continues until a checkmate is achieved, or a player forfeits the game.
 
 ## Game Screenshots
-![Chess-1](https://imgur.com/PVLL3dV)
-![Chess-2](https://imgur.com/hcCZeit)
+![Chess-1](https://imgur.com/PVLL3dV.png)
+![Chess-2](https://imgur.com/hcCZeit.png)
 
 ## Dependencies
 - Python 3.6+
