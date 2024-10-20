@@ -15,7 +15,7 @@ This is a two-player chess game implemented using Python's `pygame` library. The
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chess-game.git
+git clone https://github.com/PerseusKyogre09/Chess.git
 ```
 2. Install the required dependencies.
 ```bash
